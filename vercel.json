@@ -1,4 +1,10 @@
 {
+   "framework": {
+      "name": "nextjs",
+      "config": {
+         "turbo": false
+      }
+   },
    "buildCommand": "pnpm prisma generate && pnpm run build",
    "installCommand": "pnpm install",
    "build": {
