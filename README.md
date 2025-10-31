@@ -3,9 +3,10 @@
 **Own Journal** adalah aplikasi jurnal pribadi berbasis web yang dibuat dengan **Next.js 16**, **PostgreSQL**, dan **Prisma ORM**.  
 Tujuannya sederhana — biar lo bisa nulis, nyimpen, dan ngatur catatan pribadi lo sendiri, *tanpa tergantung layanan pihak ketiga.*
 
+---
+
 Gw ada upload ke vercel buat preview : https://own-journal.vercel.app/
 Note : Catatan Pertama jangan di hapus
----
 
 ## 🚀 Fitur Utama
 - ✍️ Tulis dan simpan jurnal pribadi lo
