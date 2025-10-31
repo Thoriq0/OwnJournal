@@ -2,9 +2,10 @@
 const nextConfig = {
   /* config options here */
   reactCompiler: true,
-  // experimental: {
-  //   allowedDevOrigins: ['192.168.100.22']
-  // }
+  experimental: {
+    // allowedDevOrigins: ['192.168.100.22']
+    turbo: false
+  }
   
 };
 
