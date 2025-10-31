@@ -6,7 +6,6 @@ Tujuannya sederhana — biar lo bisa nulis, nyimpen, dan ngatur catatan pribadi 
 ---
 
 Gw ada upload ke vercel buat preview : https://own-journal.vercel.app/
-Note : Catatan Pertama jangan di hapus
 
 ## 🚀 Fitur Utama
 - ✍️ Tulis dan simpan jurnal pribadi lo
