@@ -4,5 +4,6 @@
          "PRISMA_GENERATE_SKIP_AUTOINSTALL": "true"
       }
    },
-   "installCommand": "pnpm install && pnpm prisma generate"
+   "installCommand": "pnpm install && pnpm exec prisma generate",
+   "buildCommand": "pnpm run build"
 }
